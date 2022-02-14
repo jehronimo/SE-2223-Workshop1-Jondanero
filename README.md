@@ -7,6 +7,7 @@
    - it is very diferent, i had experienced writing in plain HTML and my code is soooooo long, also i hardly understand it after like 3 days? 
       Yeah, React just made work easier
    ### Does using React improve on any quality attribute in the image? 
-    -
+    - 
    ### How about business qualities?
+    - 
 
