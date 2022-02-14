@@ -1,0 +1,8 @@
+.product-card {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-width: 300px;
+  min-height: 300px;
+  margin: 20px;
+}
